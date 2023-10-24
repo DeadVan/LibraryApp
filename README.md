@@ -24,7 +24,14 @@ How to Build
 1. Make sure you have internet connection.
 2. run project and go to localhost:8080/login
    
-About Application
+ADMIN LOGIN
+USERNAME - DeadVan
+Password - DadvanA123
+-------------------
+Users Password
+DadvanA123
+-------------------
+ABOUT APPLICATION
 -------------------
 application has two home pages: /user-home and /admin-home.
 everyone who will register will have "USER" role.
