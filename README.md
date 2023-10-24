@@ -17,7 +17,7 @@ Database Configuration
 1. Open application.properties
 2. Changes username and password database based on your local configuration
 3. Create a database in MySQL called "librarydb"
-4. execute query from init.sql
+4.Photos of my database is in project
 
 How to Build
 -------------------
